@@ -1,7 +1,7 @@
 {
   "name": "message-list",
   "description": "A Vue.js project",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "yutingbai <baiyuting_i@didiglobal.com>",
   "license": "MIT",
   "private": false,
